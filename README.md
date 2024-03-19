@@ -16,3 +16,4 @@ The codebase contains
 - SSH into the virtual machine which has a linux OS, deployed an apache  server on it 
 - View on browsers
 [Live Link](http://portal-test-publicip.eastus.cloudapp.azure.com/)
+[Github Repo](https://github.com/t-bello7/azure-vm-vnet-linux)
